@@ -6,5 +6,21 @@
 
 
 .cool {
+background-color: rgb(255, 153, 153);
+font-family: Verdana, "DejaVu Sans", sans sans-serif;
+}
 
+.cooler {
+    font-size: 24px;
+}
+
+#div1 {
+    color: rgb(37, 37, 156);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: rgb(196, 248, 180);
+    font-size: 24px;
+    font-weight: 700;
 }
