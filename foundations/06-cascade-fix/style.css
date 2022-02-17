@@ -11,17 +11,20 @@
   font-size: 14px;
 }
 
+.button {
+  font-size: 20px;
+}
 
-.confirm-button {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
 } 
 
-.cancel-button {
+.button.cancel {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  font-size: 20px;
+
 }
 
 div.text {
@@ -29,7 +32,7 @@ div.text {
   font-size: 22px;
 }
 
-.child {
+.text.child {
   color: red;
   font-size: 14px;
 }
